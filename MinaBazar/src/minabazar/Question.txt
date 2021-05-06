@@ -1,0 +1,7 @@
+In “Mina Bazaar Super Store” customers buy products and salespeople sell products. For this purpose, 
+some information like product’s id, name, and price and product availability (true/false),
+customer’s name, id, address and salesperson’s name and id are stored. All customers need to pay 2% tax 
+on the total value of their purchase. There are two types of customers-regular customer and member customer. 
+Member customers get 5% discount on the total purchased value. When a customer buys a product, 
+the product availability is checked before that. 
+From Main class, create objects of the classes and demonstrate their behaviors.

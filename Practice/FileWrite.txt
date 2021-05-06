@@ -1,0 +1,5 @@
+Name : Bappi Saha
+ID : 123
+Balance : 1550.0
+Total Deposite : 500.0
+Total Withdrow : -150.0

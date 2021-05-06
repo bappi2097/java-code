@@ -1,0 +1,8 @@
+Write a Student class which have three instance variable named CGPA, ID and stdName. Write three method:
+1. First method will complete the student registration process
+2. Second method will calculate the CGPA. This method takes three parameter named javaMarks, dbMarks, algoMarks and calculate GPA for each subject and finally calculate CGPA using GPA of each subjects. To calculate the CGPA consider these following conditions: 
+If marks is greater than 80, then GPA is 4.0
+if marks is greater than 80, then GPA is 3.0 
+otherwise GPA is 0.0. 
+3. Third method will show/display the value of GPA with ID and stdName.
+Call the methods from Main Class.

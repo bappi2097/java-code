@@ -1,0 +1,10 @@
+A shop name “Happy Cloth Store”, located in Dhanmondi, Registration no is SHOP321.
+Shop has only two product named T-shirt and Jacket to sell. 
+The unit price of each T-shirt is 400 BDT and sale price is 500 BDT. 
+The unit price of each Jacket is 600 BDT and sale price is 800 BDT. 
+All customers have to pay 4% tax on the total value of their purchase. 
+If a customer purchased more than 3000 taka, then that customer will get 5% 
+Also calculate the profit of this shop.
+ Write a class with this instance variable and create method to implement the calculation.
+ Note that you also keep quantity of each product.
+Create Main class with main method. Take all the values as user input and call the method of Shop Class.

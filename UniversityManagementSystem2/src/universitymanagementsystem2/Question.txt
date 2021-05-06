@@ -1,0 +1,12 @@
+Consider that you have been hired to design and develop a university management 
+system. For the first version of the system, you are required to store the 
+information of all the Teachers, Students, Staff and Courses. For Teachers, 
+Students and Staff you must store first name, last name, department and age. 
+Teachers and staff also have Employee Id and monthly salary. Student has 
+Student Id and Course information that he has enrolled. A course has course 
+title, course code, total enrolled student and total credit hours.A course 
+has assigned to a course teachers and when a student is enrolled in a course 
+then number of enrolled student increased. Need to calculate Teachers and 
+Staff yearly salary and Teachers has 10% bonus and staff has 5% bonus. We also 
+need to know that how many students are enrolled to a specific subject and 
+Total credit hours is taken by a Specific teaches.
